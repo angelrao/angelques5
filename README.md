@@ -9,4 +9,6 @@ Save photos to a chosen folder.
 View all images in a selected folder in a gallery grid format.
 
 View image details and delete selected images.
+OUTPUT:
+<img src="assets/mad5_1.jpeg" alt="App Preview" width="400"/>
 
